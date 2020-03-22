@@ -1,0 +1,2 @@
+rootProject.name='SqliteListviewRaka'
+include ':app'
